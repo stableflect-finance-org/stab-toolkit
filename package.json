@@ -1,20 +1,20 @@
 {
-  "name": "pancake-toolkit",
+  "name": "stab-toolkit",
   "version": "1.0.0",
-  "description": "Pancake frontend packages",
+  "description": "Stab frontend packages",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pancakeswap/pancake-toolkit.git"
+    "url": "git+https://github.com/stableflect-finance-org/stab-toolkit.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pancakeswap/pancake-toolkit/issues"
+    "url": "https://github.com/stableflect-finance-org/stab-toolkit/issues"
   },
-  "homepage": "https://github.com/pancakeswap/pancake-toolkit#readme",
+  "homepage": "https://github.com/stableflect-finance-org/stab-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
