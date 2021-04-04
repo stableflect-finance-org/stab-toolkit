@@ -1,12 +1,12 @@
 # 🥞 Pancake UIkit
 
-[![Version](https://img.shields.io/npm/v/@stableflect-libs/uikit)](https://www.npmjs.com/package/@stableflect-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@stableflect-libs/uikit)](https://www.npmjs.com/package/@stableflect-libs/uikit)
+[![Version](https://img.shields.io/npm/v/@stableflect/uikit)](https://www.npmjs.com/package/@stableflect/uikit) [![Size](https://img.shields.io/bundlephobia/min/@stableflect/uikit)](https://www.npmjs.com/package/@stableflect/uikit)
 
 Pancake UIkit is a set of React components and hooks used to build pages on Pancake's apps. It also contains a theme file for dark and light mode.
 
 ## Install
 
-`yarn add @stableflect-libs/uikit`
+`yarn add @stableflect/uikit`
 
 ## Setup
 
@@ -16,7 +16,7 @@ Before using Pancake UIkit, you need to provide the theme file to styled-compone
 
 ```
 import { ThemeProvider } from 'styled-components'
-import { light, dark } from '@stableflect-libs/uikit'
+import { light, dark } from '@stableflect/uikit'
 ...
 <ThemeProvider theme={isDark}>...</ThemeProvider>
 ```
@@ -26,7 +26,7 @@ import { light, dark } from '@stableflect-libs/uikit'
 A reset CSS is available as a global styled component.
 
 ```
-import { ResetCSS } from '@stableflect-libs/uikit'
+import { ResetCSS } from '@stableflect/uikit'
 ...
 <ResetCSS />
 ```

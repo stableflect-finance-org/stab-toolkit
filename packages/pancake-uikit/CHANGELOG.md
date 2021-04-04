@@ -3,15 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.20.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect-libs/uikit@0.20.0...@stableflect-libs/uikit@0.20.1) (2021-04-02)
+## [0.20.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect/uikit@0.20.0...@stableflect/uikit@0.20.1) (2021-04-02)
 
-**Note:** Version bump only for package @stableflect-libs/uikit
-
-
+**Note:** Version bump only for package @stableflect/uikit
 
 
 
-# [0.20.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect-libs/uikit@0.19.0...@stableflect-libs/uikit@0.20.0) (2021-04-02)
+
+
+# [0.20.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect/uikit@0.19.0...@stableflect/uikit@0.20.0) (2021-04-02)
 
 
 ### Bug Fixes
@@ -27,7 +27,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.19.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect-libs/uikit@0.18.0...@stableflect-libs/uikit@0.19.0) (2021-03-31)
+# [0.19.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect/uikit@0.18.0...@stableflect/uikit@0.19.0) (2021-03-31)
 
 
 ### Bug Fixes
@@ -44,7 +44,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.18.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect-libs/uikit@0.17.0...@stableflect-libs/uikit@0.18.0) (2021-03-30)
+# [0.18.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect/uikit@0.17.0...@stableflect/uikit@0.18.0) (2021-03-30)
 
 
 ### Bug Fixes
@@ -64,7 +64,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.17.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect-libs/uikit@0.16.0...@stableflect-libs/uikit@0.17.0) (2021-03-24)
+# [0.17.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect/uikit@0.16.0...@stableflect/uikit@0.17.0) (2021-03-24)
 
 
 ### Features
@@ -76,7 +76,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.16.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect-libs/uikit@0.15.2...@stableflect-libs/uikit@0.16.0) (2021-03-22)
+# [0.16.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect/uikit@0.15.2...@stableflect/uikit@0.16.0) (2021-03-22)
 
 
 ### Features
@@ -87,7 +87,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.15.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect-libs/uikit@0.15.2...@stableflect-libs/uikit@0.15.2) (2021-03-19)
+## [0.15.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@stableflect/uikit@0.15.2...@stableflect/uikit@0.15.2) (2021-03-19)
 
 
 ### Bug Fixes
