@@ -5,9 +5,7 @@ import IconButton from "../../../components/Button/IconButton";
 import { MENU_ENTRY_HEIGHT } from "../config";
 import { PanelProps, PushedProps } from "../types";
 import CakePrice from "./CakePrice";
-import ThemeSwitcher from "./ThemeSwitcher";
 import SocialLinks from "./SocialLinks";
-import LangSelector from "./LangSelector";
 
 interface Props extends PanelProps, PushedProps {}
 
@@ -59,11 +57,7 @@ const PanelFooter: React.FC<Props> = ({
       <SocialEntry>
         <CakePrice cakePriceUsd={cakePriceUsd} />
         <SocialLinks />
-      </SocialEntry>
-      <SettingsEntry>
-        <ThemeSwitcher isDark={isDark} toggleTheme={toggleTheme} />
-        <LangSelector currentLang={currentLang} langs={langs} setLang={setLang} />
-      </SettingsEntry>
+      </SocialEntry>      
     </Container>
   );
 };
